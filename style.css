@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.button {
+    padding: 20px;
+    margin: 0 3px;
+    border: 2px solid #000;
+    border-radius: 5px;
+    cursor: pointer;
+    width: 66px;
+}
+
+.btn-c {
+    width: 142px;
+}
+
+.row {
+    margin: 8px 0;
+}
+
+.row input {
+    width: 293px;
+    margin: 0;
+    font-size: 20px;
+    padding: 10px 0;
+    border: 2px solid #000;
+    border-radius: 5px;
+}
